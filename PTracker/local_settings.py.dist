@@ -1,0 +1,2 @@
+# Just contains the API key from your pivotol tracker account
+API_TOKEN = None
